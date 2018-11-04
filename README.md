@@ -1,0 +1,1 @@
+# N4B_stroke_metadata
